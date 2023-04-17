@@ -1,0 +1,16 @@
+- [*] Redirection after logout (problem: uncapable of using history.push in navBar.jsx)
+#FRONTEND
+- [*] change home page UI
+- [] crasoul product list
+- [*] change product List page UI
+- [*] Add cart page:
+    - [] Add quantity option in the cart and the product Detail page
+    - [*] total coast of the cart
+    - [] payment (one single product or all)(to be configured with the payment getway)
+- [] Side nav UI
+#BACKEND
+- [*] Add, remove , update, get cart items
+
+# Product sort and filter mechanisme
+- [] filter product buy category, size, colors, onStore (Backend)
+- [] sort product buy price (Frontend)
